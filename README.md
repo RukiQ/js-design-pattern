@@ -71,7 +71,7 @@
 
 ### 7. 发布-订阅模式
 
-☛ 参考文章：[设计模式：观察者模式](https://www.cnblogs.com/Ruth92/p/5886088.html)
+简单实现：☛ 参考 [设计模式：观察者模式](https://www.cnblogs.com/Ruth92/p/5886088.html)
 
 ### 8. 模板方法模式
 
